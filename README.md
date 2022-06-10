@@ -1,2 +1,1 @@
-My first readme
-am a student at Alx Software ENgineering Program
+My first git project
